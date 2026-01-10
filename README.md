@@ -4,10 +4,6 @@
 ☁️ AWS | DevOps | Python | Backend Enthusiast  
 
 ---
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=paresh31&theme=github-compact)
-
-
----
 
 ## 🚀 About Me  
 - Passionate about building **cloud-native and scalable applications**
