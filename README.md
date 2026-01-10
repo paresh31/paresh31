@@ -54,7 +54,9 @@
 - AWS (S3, ECS, IAM, Cloud9)  
 - Docker & Containerization  
 - Linux (Ubuntu)  
-- CI/CD Fundamentals  
+- CI/CD Fundamentals
+
+
  
 ---
 
