@@ -16,67 +16,89 @@
 
 ## 🛠️ Skills & Technologies  
 
-### 💻 Programming  
+<div style="display:flex; justify-content:space-between; gap:20px;">
+
+<div style="width:33%;">
+
+### 💻 Programming
 - Python  
 - Java  
 - Basic C++  
+
+</div>
+
+<div style="width:33%;">
+
+### 🤖 AI / ML
+- Machine Learning Basics  
+- Deep Learning Fundamentals  
+- Model Training & Optimization  
+
+</div>
+
+<div style="width:33%;">
+
+### 🌐 Web & Tools
+- Streamlit  
+- Git & GitHub  
+- REST APIs  
+
+</div>
+
+</div>
+
+
+ 
 
 ### ☁️ Cloud & DevOps  
 - AWS (S3, ECS, IAM, Cloud9)  
 - Docker & Containerization  
 - Linux (Ubuntu)  
 - CI/CD Fundamentals  
-
-### 🤖 AI / ML  
-- Machine Learning Basics  
-- Deep Learning Fundamentals  
-- Model Training & Optimization  
-
-### 🌐 Web & Tools  
-- Streamlit  
-- Git & GitHub  
-- REST APIs  
-
----
-
-## 📌 Featured Projects  
-
-### 🔹 Text to Story Generator  
-- Built an **AI-powered story generator** using **Gemini API**
-- Developed interactive frontend using **Python Streamlit**
-- Implemented prompt engineering for creative text generation
-- Deployed and tested for real-time user interaction  
-
-### 🔹 Serverless App Deployment with Docker & AWS ECS  
-- Containerized Judge0 compiler using **Docker**
-- Deployed scalable services on **AWS ECS**
-- Focused on **cost optimization and performance**
-- Automated deployment workflow  
-
-### 🔹 Netflix Clone (Frontend)  
-- Developed responsive UI using **HTML, CSS, JavaScript**
-- Implemented modern layouts and animations
-- Improved UI/UX consistency  
-
+ 
 ---
 
 ## 📜 Certifications  
-- 🟧 AWS Certified Developer – Associate  
-- ☁️ AWS Academy – Cloud Foundations, Cloud Developing  
-- 🤖 IBM SkillBuild – AI Fundamentals, Python for Data Science  
+- 🟧 AWS Certified Developer – Associate    
 - 🐧 LinuxFoundationX – Introduction to Linux (LFS101x)  
-- 🎓 NPTEL – Cloud Computing, DBMS  
 - 🌐 Cisco – Python Essentials, CCNA (I, II, III)  
 
 ---
 
 ## 📫 Connect With Me  
-<p align="left">
-<a href="https://linkedin.com/in/paresh31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paresh31" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/pareshmahato" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pareshmahato" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pareshmahato31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pareshmahato31" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pareshmahato31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pareshmahato31" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/pareshmahato31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pareshmahato31" height="30" width="40" /></a>
+<p align="left" style="white-space:nowrap;">
+
+<a href="mailto:pareshmahato31@gmail.com" title="Email: pareshmahato31@gmail.com" style="text-decoration:none;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"
+     height="27" width="35"
+     style="margin-right:10px; vertical-align:middle;" />
+</a><a href="https://linkedin.com/in/paresh31" target="blank" style="text-decoration:none;">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+     height="30" width="40"
+     style="margin-right:10px; vertical-align:middle;" />
+</a><a href="https://www.leetcode.com/pareshmahato31" target="blank" style="text-decoration:none;">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+     height="30" width="40"
+     style="margin-right:10px; vertical-align:middle;" />
+</a><a href="https://auth.geeksforgeeks.org/user/pareshmahato31" target="blank" style="text-decoration:none;">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
+     height="30" width="40"
+     style="margin-right:10px; vertical-align:middle;" />
+</a><a href="https://www.hackerrank.com/pareshmahato31" target="blank" style="text-decoration:none;">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+     height="30" width="40"
+     style="margin-right:10px; vertical-align:middle;" />
+</a><a href="https://www.codechef.com/users/pareshmahato" target="blank" style="text-decoration:none;">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
+     height="30" width="40"
+     style="vertical-align:middle;" />
+</a>
+
 </p>
+
+
+
+
+
 
 
