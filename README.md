@@ -68,5 +68,5 @@
 
 
 ## 📫 Connect With Me  
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK  
+- 💼 LinkedIn: https://linkedin.com/in/paresh31  
 - 📧 Email: pareshmahato31@gmail.com 
