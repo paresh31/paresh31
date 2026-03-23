@@ -1,14 +1,14 @@
 # Hi 👋, I'm Paresh Kumar Mahato  
 
 🎓 B.Tech in Artificial Intelligence & Machine Learning  
-☁️ AWS | DevOps | Python | Backend Enthusiast  
+☁️ AWS | Networking | Linux | Python | Backend Enthusiast  
 
 ---
 
 ## 🚀 About Me  
 - Passionate about building **cloud-native and scalable applications**
-- Strong foundation in **Python, AWS, Linux, and Docker**
-- Interested in **DevOps, Backend Systems, and AI-powered applications**
+- Strong foundation in **Python, AWS, Networking, Linux, and Docker**
+- Interested in **Network Troubleshooting, DevOps, Backend Systems, and Problem Solving**
 - Hands-on experience with **AWS ECS, S3, Docker, and CI/CD basics**
 - Always learning and improving through real-world projects  
 
@@ -162,9 +162,10 @@
  
 
 ### ☁️ Cloud & DevOps  
-- AWS (S3, ECS, IAM, Cloud9)  
+- AWS (S3, ECS, IAM, Cloud9)
+- Network Troubleshooting
 - Docker & Containerization  
-- Linux (Ubuntu)  
+- Linux  
 - CI/CD Fundamentals
 
 
@@ -172,9 +173,10 @@
 ---
 
 ## 📜 Certifications  
-- 🟧 AWS Certified Developer – Associate    
-- 🐧 LinuxFoundationX – Introduction to Linux (LFS101x)  
-- 🌐 Cisco – Python Essentials, CCNA (I, II, III)  
+- 🟧 AWS Certified Developer – Associate
+- 🌐 Cisco – CCNA (I, II, III), Python  
+- 🐧 Linux – Linux (LFS101x)  
+
 
 ---
 
